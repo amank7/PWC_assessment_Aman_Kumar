@@ -1,0 +1,14 @@
+<div class="nav">
+  <div>
+    <a routerLink="" class="userInfo">User Information</a> <span> | </span>
+    <a routerLink="/about">About Us</a> <span> | </span>
+    <a routerLink="/contact">Contact</a>
+  </div>
+  <div>
+    <span class="date"> {{date | date: 'dd-MMMM-YY' }}</span>
+  </div>
+
+</div>
+
+
+<router-outlet></router-outlet>

@@ -1,0 +1,27 @@
+.nav {
+    background: blueviolet;
+    height: 2.5rem;
+    display: flex;
+    flex-direction: row;
+    padding-top: .75rem;
+}
+
+a {
+    color: white;
+    /* margin-top: 2rem; */
+    text-decoration: none;
+    margin: .5rem;
+}
+
+span {
+    color: white;
+}
+
+.userInfo {
+    margin-left: 2rem;
+}
+
+.date {
+    text-align: end;
+    margin-left: 28rem;
+}
