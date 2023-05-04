@@ -4,9 +4,7 @@ Take Home Assessment
 
 Installation Steps:
 
-node.js installed
-angular cli installed
-ng new projectName 
+run command -> npm install to have node_modules and necessary packages installed
 
 Building & running the Application:
 
